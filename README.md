@@ -59,4 +59,8 @@ plt.show()
 ```
 
 ## الآن يمكنك تشغيل الكود ورؤية الانحدار الخطي لبياناتك
+
+## النتيجة:
+
+![PRICES](https://github.com/taline1429/Linear-Regression/assets/75810658/5d62e5c5-d23c-4928-b4f3-3e51b035980d)
 ## إنتهى.
